@@ -4,7 +4,7 @@
 
 ### DETAILED TEACHING SCHEDULE (Check regularly for updates)
 
-# Weeks 1–4 (19/01-13/02/2026): Python crash course for biologists
+# Weeks 1–4 (19/01-13/02/2026): Python crash course
 
 ---
 
