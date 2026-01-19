@@ -4,7 +4,7 @@
 
 ### DETAILED TEACHING SCHEDULE (Check regularly for updates)
 
-# Weeks 1–4 (19/01-13/02/2026): Python crash course
+# Weeks 1–4 (19/01-13/02/2026): Python crash course for beginners
 
 ---
 
