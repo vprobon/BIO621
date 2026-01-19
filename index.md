@@ -49,7 +49,6 @@ Each topic includes:
 - Live coding / guided notebooks
 - Structured exercises
 - Open-ended extensions
-
 Course assessment is continuous and aims at ensuring all students gradually build the skill-set necessary for being able to apply the material handled in class in real-life settings (e.g., research or work environments), thus critical thinking and application of good practices are important (not mere memorization!!).
 ---
 
