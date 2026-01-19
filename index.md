@@ -37,8 +37,10 @@ This course is **taught in English** and is available to ERASMUS+/YUFE students.
 **Weekly structure:**  
 - 3h (i.e. 2 × 1.5) lecture-style ***practical*** sessions  
 - 1 × 1h tutorial / hands-on / troubleshooting session  
-- **Environment:** Google Colab (Python, Jupyter notebooks)  
-- **Main (programming) textbook:** *Python Programming for Biology: Bioinformatics and Beyond* (Stevens & Boucher; ISBN: 9780521720090), avaialble through the UCY library from this [link]([https://www.cambridge.org/cy/universitypress/subjects/life-sciences/genomics-bioinformatics-and-systems-biology/python-programming-biology-bioinformatics-and-beyond?format=PB#resources](https://www.cambridge.org/cy/universitypress/subjects/life-sciences/genomics-bioinformatics-and-systems-biology/python-programming-biology-bioinformatics-and-beyond)).
+
+ **Environment:** Google Colab (Python, Jupyter notebooks)  
+ 
+ **Main (programming) textbook:** *Python Programming for Biology: Bioinformatics and Beyond* (Stevens & Boucher; ISBN: 9780521720090), avaialble through the UCY library from this [link](https://www.cambridge.org/cy/universitypress/subjects/life-sciences/genomics-bioinformatics-and-systems-biology/python-programming-biology-bioinformatics-and-beyond).
 
 ---
 
@@ -53,9 +55,9 @@ Each topic includes:
 ---
 
 ## Course assessment 
-- We follow continuous assessment through short quizes (each session), midterm and final projects (half term/final "exam")
+- We follow continuous assessment through short quizes (each session), midterm and final projects (half term/final projects)
 - We aim at ensuring all students gradually build the skill-set necessary for being able to apply the material handled in class in real-life settings (e.g., research or work environments), thus critical thinking and application of good practices are important (not mere memorization!!).
--
+
 ---
 
 ## [Content and Schedule](content.md)
