@@ -1,4 +1,5 @@
-# BIO230 - Introduction to Computational Biology - Assessment (Fall 2023)
+# BIO621 - Computational and Systems Biology I - Content and Schedule (Spring 2026)
+
 
 ## Instructor: Asscociate Prof. [Vasilis J Promponas](https://www.ucy.ac.cy/dir/el/component/comprofiler/userprofile/vprobon). [vprobon@ucy.ac.cy](mailto:vprobon@ucy.ac.cy)
 
