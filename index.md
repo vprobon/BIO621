@@ -4,7 +4,7 @@
 
 
 ##  Description/Goals 
-This 13-week course aims to introduce students in the Cellular and Molecular Life Sciences MSc \& PhD  programmes with foundational knowledge of principles applied in the growing fields of Computational and Systems Biology, following a practical, problem-solving approach. 
+This 13-week course aims to introduce students in the Cellular and Molecular Life Sciences MSc & PhD  programmes with foundational knowledge of principles applied in the growing fields of Computational and Systems Biology, following a practical, problem-solving approach. 
 
 This course is *practice-driven* and aims to:
 - Build **computational thinking** for biologists
@@ -25,7 +25,7 @@ This course is **taught in English** and is available to ERASMUS+/YUFE students.
 >
 >**Class web**: Class material on the web can be accessed at the
 
->>Class web page @github.io: https://vprobon.github.io/BIO621/
+>>Class web page @github.io: https://vprobon.github.io/BIO621/ (this page)
 >>
 >>Teams group (BIO621-Spring2026) [only students enrolled in BIO621 have access]
 
@@ -35,10 +35,10 @@ This course is **taught in English** and is available to ERASMUS+/YUFE students.
 
  
 **Weekly structure:**  
-- 2 × 1.5h lecture-style practical sessions  
+- 3h (i.e. 2 × 1.5) lecture-style ***practical*** sessions  
 - 1 × 1h tutorial / hands-on / troubleshooting session  
 **Environment:** Google Colab (Python, Jupyter notebooks)  
-**Main (programming) textbook:** *Python Programming for Biology: Bioinformatics and Beyond* (Stevens & Boucher; ISBN: 9780521720090), avaialble through the UCY library from this [link]([https://www.cambridge.org/cy/universitypress/subjects/life-sciences/genomics-bioinformatics-and-systems-biology/python-programming-biology-bioinformatics-and-beyond?format=PB#resources](https://www.cambridge.org/cy/universitypress/subjects/life-sciences/genomics-bioinformatics-and-systems-biology/python-programming-biology-bioinformatics-and-beyond))
+**Main (programming) textbook:** *Python Programming for Biology: Bioinformatics and Beyond* (Stevens & Boucher; ISBN: 9780521720090), avaialble through the UCY library from this [link]([https://www.cambridge.org/cy/universitypress/subjects/life-sciences/genomics-bioinformatics-and-systems-biology/python-programming-biology-bioinformatics-and-beyond?format=PB#resources](https://www.cambridge.org/cy/universitypress/subjects/life-sciences/genomics-bioinformatics-and-systems-biology/python-programming-biology-bioinformatics-and-beyond)).
 
 ---
 
@@ -54,6 +54,9 @@ Each topic includes:
 ## [Teaching material](material.md)
 ## [Code of conduct](conduct.md)
 ## [Communication/Contact](contact.md)
+
+
+---
 
 
 [Bioinformatics Research Laboratory @UCY](https://vprobon.github.io/BRL-UCY) 2005-2026.
