@@ -38,9 +38,8 @@ This course is **taught in English** and is available to ERASMUS+/YUFE students.
 - 3h (i.e. 2 × 1.5) lecture-style ***practical*** sessions  
 - 1 × 1h tutorial / hands-on / troubleshooting session  
 
- **Environment:** Google Colab (Python, Jupyter notebooks)  
+ **Compute environment:** [Google Colab](https://colab.research.google.com/) (Python, Jupyter notebooks). You will need a valid Google email (Gmail) account to access this service.
  
- **Main (programming) textbook:** *Python Programming for Biology: Bioinformatics and Beyond* (Stevens & Boucher; ISBN: 9780521720090), avaialble through the UCY library from this [link](https://www.cambridge.org/cy/universitypress/subjects/life-sciences/genomics-bioinformatics-and-systems-biology/python-programming-biology-bioinformatics-and-beyond).
 
 ---
 
