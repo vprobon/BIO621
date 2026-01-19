@@ -48,13 +48,15 @@ Each topic includes:
 - Short conceptual intro
 - Live coding / guided notebooks
 - Structured exercises
-- Open-ended extensions 
+- Open-ended extensions
+
+---
+
 ## [Content and Schedule](content.md)
 ## [Assessment](assessment.md)
 ## [Teaching material](material.md)
 ## [Code of conduct](conduct.md)
 ## [Communication/Contact](contact.md)
-
 
 ---
 
