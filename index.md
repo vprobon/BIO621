@@ -54,8 +54,8 @@ Each topic includes:
 
 ## Course assessment 
 
-- We follow continuous assessment through short quizes (each session), midterm and final projects (half term/final "exam")
 - We aim at ensuring all students gradually build the skill-set necessary for being able to apply the material handled in class in real-life settings (e.g., research or work environments), thus critical thinking and application of good practices are important (not mere memorization!!).
+- We follow continuous assessment through short quizes (each session), midterm and final projects (half term/final "exam")
 ---
 
 ## [Content and Schedule](content.md)
