@@ -1,5 +1,10 @@
+# BIO621 - Computational and Systems Biology I - Content and Schedule (Spring 2026)
+
+## Instructor: Asscociate Prof. [Vasilis J Promponas](https://www.ucy.ac.cy/dir/el/component/comprofiler/userprofile/vprobon). [vprobon@ucy.ac.cy](mailto:vprobon@ucy.ac.cy)
+
+### DETAILED TEACHING SCHEDULE (Check regularly for updates)
+
 # Weeks 1–4 (19/01-13/02/2026): Python crash course for biologists
-*(Selective coverage of the textbook, biology-first perspective)*
 
 ---
 
@@ -276,3 +281,5 @@
 - Reproducible research practices
 
 ---
+
+[Bioinformatics Research Laboratory @UCY](https://vprobon.github.io/BRL-UCY) 2005-2026.
