@@ -7,7 +7,6 @@ The final class grade results using several different assessment criteria, as fo
 |Assessment criteria|					Weight|
 |---|---|
 |Weekly quizes \& exercises / mini-assignments / homework		(HW)|				30%|
-|Seminar		(SE)|				20%|
 |Midterm Practical Assignment	(ME)|				20%|
 |Final Project \& Presentation		(FP)|				50%|
 
