@@ -1,4 +1,4 @@
-# Weeks 1–4: Python crash course for biologists
+# Weeks 1–4 (19/01-13/02/2026): Python crash course for biologists
 *(Selective coverage of the textbook, biology-first perspective)*
 
 ---
