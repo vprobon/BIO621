@@ -1,5 +1,3 @@
----
-
 # Weeks 1–4: Python crash course for biologists
 *(Selective coverage of the textbook, biology-first perspective)*
 
