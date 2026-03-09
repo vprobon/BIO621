@@ -10,7 +10,7 @@ class ExpressionGenome(Genome):
     def add_expression(self, gene, value):
         self.expression[gene] = value
 
-    def mean_expression(self)
+    def mean_expression()
 
         total = sum(self.expression.values())
         return total / len(self.expression)
